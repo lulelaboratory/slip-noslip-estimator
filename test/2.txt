@@ -1,0 +1,33 @@
+Slip/No-Slip Estimator - Results Export
+Generated: 2025-03-18 00:04:43
+Version: 1.01
+Author: Le Lu (lulelaboratory@gmail.com)
+==================================================
+
+INPUT PARAMETERS:
+Gap Height: 10 nm
+Sliding Speed: 1 m/s
+Water Viscosity: 0.001 Pa·s
+Interfacial Friction: 1e7 Pa·s/m
+Critical Shear Rate: 1e7 1/s
+Exponent (m): 2
+
+CALCULATION RESULTS:
+CALCULATION RESULTS
+══════════════════════════════════════════════════
+
+Gap (m): 1.000e-08
+Sliding Speed (m/s): 1.000e+00
+Shear Rate (1/s): 1.000e+08
+Shear Stress (Pa): 1.000e+05
+Baseline Slip Length, b₀ (m): 1.000e-10
+Effective Slip Length, bₑff (m): 1.010e-08
+Slip Length / Gap: 1.010e+00
+
+RECOMMENDATION
+══════════════════════════════════════════════════
+
+Slip condition should be considered
+
+For CFD simulation: Use a Navier slip boundary condition with a slip length of 1.010e-08 m.
+
