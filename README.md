@@ -101,8 +101,8 @@ The tool is based on the following key equations:
 For a detailed explanation with formatted equations and references, open the Methodology page from the Help menu.
 
 ## References
-- Thompson, P. A., and S. M. Troian. "A General Boundary Condition for Liquid Flow at Solid Surfaces." *Nature*, vol. 389, no. 6649, 1997, pp. 360–362.
-- Neto, C., D. R. Evans, E. Bonaccurso, H.-J. Butt, and V. S. J. Craig. "Fluid Slip in Diverse Regimes: A Review of Experimental Studies." *Reports on Progress in Physics*, vol. 68, no. 12, 2005, pp. 2859–2897.
-- Bocquet, L., and J.-L. Barrat. "Hydrodynamic Boundary Conditions, Correlation between Friction and Slip at a Fluid/Solid Interface." *Soft Matter*, vol. 3, no. 4, 2007, pp. 685–693.
+1. Thompson, P. A., and S. M. Troian. "A General Boundary Condition for Liquid Flow at Solid Surfaces." *Nature*, vol. 389, no. 6649, 1997, pp. 360–362.
+2. Neto, C., D. R. Evans, E. Bonaccurso, H.-J. Butt, and V. S. J. Craig. "Fluid Slip in Diverse Regimes: A Review of Experimental Studies." *Reports on Progress in Physics*, vol. 68, no. 12, 2005, pp. 2859–2897.
+3. Bocquet, L., and J.-L. Barrat. "Hydrodynamic Boundary Conditions, Correlation between Friction and Slip at a Fluid/Solid Interface." *Soft Matter*, vol. 3, no. 4, 2007, pp. 685–693.
 
 
