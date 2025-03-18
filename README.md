@@ -10,8 +10,8 @@ Slip/No-Slip Estimator is a Python-based GUI tool designed to help users determi
 ## Features
 
 - **User-Friendly GUI:** Built with Tkinter for an intuitive experience.
-- **Detailed Calculations:** Computes shear rate, shear stress, baseline slip length (![baseline](https://latex.codecogs.com/svg.latex?b_0=\frac{\mu}{\lambda)), and effective slip length (![effective](https://latex.codecogs.com/svg.latex?b_{\text{eff}}=b_0\left[1+\left(\frac{\gamma}{\gamma_c}\right)^m\right])).
-- **Decision Criterion:** Evaluates the slip ratio (![Slip Ratio](https://latex.codecogs.com/svg.latex?\frac{b_{\text{eff}}}{h})) to recommend either a no-slip or slip boundary condition.
+- **Detailed Calculations:** Computes shear rate, shear stress, baseline slip length ![baseline](https://latex.codecogs.com/svg.latex?b_0=\frac{\mu}{\lambda), and effective slip length ![effective](https://latex.codecogs.com/svg.latex?b_{\text{eff}}=b_0\left[1+\left(\frac{\gamma}{\gamma_c}\right)^m\right]).
+- **Decision Criterion:** Evaluates the slip ratio ![Slip Ratio](https://latex.codecogs.com/svg.latex?\frac{b_{\text{eff}}}{h}) to recommend either a no-slip or slip boundary condition.
 - **CFD Boundary Condition Suggestion:** Provides a practical suggestion for setting up CFD simulations based on the computed values.
 - **Methodology Display:** Shows formal mathematical equations and detailed methodology (using MathJax) in a browser window.
 - **Export Functionality:** Allows exporting of calculation results to a text file.
