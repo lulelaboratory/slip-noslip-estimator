@@ -3,7 +3,7 @@ message: "If you use this software in your research, please cite it using the fo
 title: "Slip/No-Slip Estimator"
 version: "1.01"
 date-released: "2025-03-17"
-doi: "10.5281/zenodo.xxxxxx"  # Replace with your actual DOI if available.
+doi: "10.5281/zenodo.15045269"  # Replace with your actual DOI if available.
 authors:
   - family-names: Lu
     given-names: Le
