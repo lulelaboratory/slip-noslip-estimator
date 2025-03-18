@@ -1,7 +1,9 @@
 # Slip/No-Slip Estimator
 
 **Version:** 1.01  
-**Author:** Le Lu ([lulelaboratory@gmail.com](mailto:lulelaboratory@gmail.com))
+**Author:** Le Lu ([lulelaboratory@gmail.com](mailto:lulelaboratory@gmail.com)) 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15045269.svg)](https://doi.org/10.5281/zenodo.15045269)
 
 ## Overview
 
